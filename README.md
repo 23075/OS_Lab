@@ -1,11 +1,11 @@
 
-💻 #Operating System Lab Practicals
+💻 # Operating System Lab Practicals
 This repository contains C programs and shell scripts developed as part of the Operating System Lab (Course Code: T7511) during my coursework in the Computer Science and Engineering program.
 
-📚 ##Course Overview
+**📚 Course Overview**
 The Operating System lab focused on practical implementation of OS concepts using C programming and Linux shell scripting. The main goals included understanding process scheduling, memory management, file operations, and command-line utilities in a Linux environment.
 
-🔧### Practicals Included
+**🔧 Practicals Included**
 | Sr. No. | Topic                                           | Language       |
 | ------- | ----------------------------------------------- | -------------- |
 | 1       | Basic Ubuntu commands and `ls` with all options | Shell Commands |
@@ -23,29 +23,20 @@ The Operating System lab focused on practical implementation of OS concepts usin
 
 
 
-🛠### Technologies Used
+**🛠Technologies Used**
 C Language
-
 Linux (Ubuntu/Fedora)
-
 Shell Scripting
-
 Vi/Vim Editor
-
 GCC Compiler
 
 
 
- ###🎯Learning Objectives
+**🎯Learning Objectives**
 Understand process scheduling algorithms (FCFS, SJF, Priority)
-
 Explore memory management through Banker's algorithm
-
 Practice Linux shell scripting and command-line utilities
-
 Learn basic file operations and scripting constructs
 
-###📝 License
+**📝 License**
 This project is shared for academic and learning purposes.
-
-
